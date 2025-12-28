@@ -1,6 +1,7 @@
 Hey there,
 
 I’m Rizwan, a Computer Science student, based in India.
+
 Who enjoys building backend systems and learning how things work under the hood.
 My main tech is Go, C++, ML with Python, focusing on Backend and Data Analytics operations.
 
