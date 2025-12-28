@@ -1,6 +1,6 @@
 Hey there,
 
-I’m Rizwan, a Computer Science student, based in India.
+I’m [Rizwan](https://github.com/syedrizwan-afk), a Computer Science student, based in India.
 
 Who enjoys building backend systems and learning how things work under the hood.
 
