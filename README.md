@@ -4,7 +4,7 @@ I’m [Rizwan](https://github.com/syedrizwan-afk), a Computer Science student, b
 
 Who enjoys building backend systems and learning how things work under the hood.
 
-My main tech is Go, C++, ML with Python, focusing on Backend and Data Analytics operations.
+My main tech is SpringBoot, React, Go, C++, ML with Python, focusing on Backend and Data Analytics operations.
 
 I have hands-on experience in Data Science and Machine Learning with Python, during my Internship.
 
