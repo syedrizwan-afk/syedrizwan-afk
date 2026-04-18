@@ -16,11 +16,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p style="display: flex; align-items: center; gap: 10px;">
-  <a href="https://linkedin.com/in/syed-rizwan-ali-95b446280" target="_blank">
+  <a href="https://linkedin.com/in/syed-rizwan-ali-95b446280" target="_blank style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
-  <a href="https://www.leetcode.com/syed_rizwan_ali" target="_blank">
+  <a href="https://www.leetcode.com/syed_rizwan_ali" target="_blank style="display:inline-block;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
