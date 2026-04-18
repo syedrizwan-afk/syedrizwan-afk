@@ -1,6 +1,3 @@
-Hey there,
-
-I’m [Rizwan]
 <h1 align="center">Hi 👋, I'm Syed Rizwan Ali</h1>
 <h3 align="center">A passionate Backend developer and part-time Data Analyst based in India</h3>
 
