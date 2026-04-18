@@ -5,8 +5,8 @@
 ###
 
 <p align="left">Backend developer and Ex-Data Analyst based in India<br>💬 Ask me about Backend problems or when got stuck in DSA...<br><br>📄 Know about my experiences 
-<a href="https://https://drive.google.com/file/d/1EQ28VQLQlW91oObWdwKHJH4KqauAkTpO/view" rel="external" download>Resume</a></p>
-  https://drive.google.com/file/d/1EQ28VQLQlW91oObWdwKHJH4KqauAkTpO/view
+<a href="https://drive.google.com/file/d/1EQ28VQLQlW91oObWdwKHJH4KqauAkTpO/view?usp=drive_link" rel="external" download>Resume</a>
+</p>
 
 ###
 
