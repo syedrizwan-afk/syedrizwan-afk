@@ -14,7 +14,7 @@
 - 📫 How to reach me **alirizwan05681@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/syed-rizwan-ali-95b446280">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
