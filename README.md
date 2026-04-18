@@ -13,12 +13,12 @@
 
 - 📫 How to reach me **alirizwan05681@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://linkedin.com/in/syed-rizwan-ali-95b446280">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-<h3 align="left">Connect with me:</h3>
 
 <p style="display: flex; align-items: center; gap: 10px;">
   <a href="https://linkedin.com/in/syed-rizwan-ali-95b446280" target="_blank style="display:inline-block;">
