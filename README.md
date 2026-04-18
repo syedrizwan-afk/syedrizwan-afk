@@ -18,6 +18,7 @@
   <a href="https://linkedin.com/in/syed-rizwan-ali" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed rizwan ali" height="30" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.leetcode.com/syed_rizwan_ali" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed_rizwan_ali" height="30" width="40" />
   </a>
