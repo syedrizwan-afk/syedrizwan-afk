@@ -19,7 +19,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.leetcode.com/syed_rizwan_ali">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
 </p>
 
